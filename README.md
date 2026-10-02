@@ -1,8 +1,4 @@
-<div align="center">
 
-  <img src="https://github.com/mahtabkarami/mahtabkarami/banner.svg" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
-
-  <br>
 
   <a href="https://readme-typing-svg.demolab.com/">
     <img
