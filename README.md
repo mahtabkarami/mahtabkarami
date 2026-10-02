@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="/Users/msg/Downloads/banner.svg" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/mahtabkarami/mahtabkarami/main/assets/banner.svg" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
 
   <br>
 
@@ -16,20 +16,9 @@
     from models and APIs to deployment.
   </p>
 
-  <a href="https://www.linkedin.com/in/mahtab-karami-052658249">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:m.karami1383@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/mahtabkarami?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20internships-5eead4?style=flat-square&labelColor=0b1020" alt="Open to AI/ML internships" />
-  <img src="https://img.shields.io/badge/Also%20looking%20at-graduate%20programs%20(US%20%2F%20EU)-a5b4fc?style=flat-square&labelColor=0b1020" alt="Graduate programs" />
+  <a href="https://www.linkedin.com/in/mahtab-karami-052658249"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:m.karami1383@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mahtabkarami?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
@@ -60,7 +49,6 @@ I'm a computer science undergraduate, and I like the part where an ML idea has t
 |---|---|
 | 🔨 **Building** | A multimodal plant disease app: image + metadata classifier, Grad-CAM heatmaps, and LLM-generated explanation and treatment advice (Streamlit + FastAPI) |
 | 🎓 **Researching** | Deep-learning-based plant disease detection |
-| 🎯 **Looking for** | AI/ML engineering internships and entry-level roles; graduate programs in the US and Europe |
 
 ## From idea to product
 
