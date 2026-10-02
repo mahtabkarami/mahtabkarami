@@ -1,66 +1,101 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6C8EEF&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mahtab+%F0%9F%91%8B;ML+%2F+AI+Engineering;Computer+Vision+%C2%B7+NLP;Backend+%C2%B7+FastAPI+%C2%B7+Docker;Full-Stack+%C2%B7+Next.js+%C2%B7+TypeScript" alt="Typing SVG" />
+<div align="center">
 
-Currently exploring **Deep Learning, Computer Vision, NLP, and LLM-powered applications**, while strengthening my backend and full-stack skills.
+  <!-- Replace this file with your own photo -->
+  <img src="./assets/profile.jpg" alt="Mahtab" width="150" />
+
+  <br><br>
+
+  <a href="https://readme-typing-svg.demolab.com/">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1400&color=333333&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+%7C+Deep+Learning;Backend+%26+AI+Application+Developer;Building+ML+into+real+software"
+      alt="Typing title"
+    />
+  </a>
+
+  <br>
+
+  <p>
+    I build practical AI/ML systems and the software around them,
+    from models and APIs to deployment.
+  </p>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
+
+## About
+
+My work sits where **machine learning meets software engineering**.
+
+I’m particularly interested in **Computer Vision, Deep Learning, NLP, and AI-powered applications**, with a strong focus on making models useful beyond a notebook: exposing them through APIs, integrating them into applications, and getting them running in practical environments.
+
+I also work with backend technologies and enjoy the part where an ML idea has to become an actual piece of software.
 
 ## Tech Stack
 
-### AI / Machine Learning
+### AI / ML
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=4" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&perline=5" alt="AI and ML stack" />
 </p>
 
 ### Backend & Infrastructure
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git&perline=3" />
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,linux&perline=5" alt="Backend and infrastructure stack" />
 </p>
 
-### Web Development
+### Web
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts&perline=3" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css&perline=4" alt="Web stack" />
 </p>
 
-## Projects
+## What I'm Building
 
-- **Brain Tumor MRI Detection**: CNN classifier with Grad-CAM visual explanations
-- **Plant Disease Detection**: transfer learning with MobileNetV2
-- **Movie Recommender**: Netflix-style recommendation system with a FastAPI backend
-- **Sentiment Analysis Pipeline**: end-to-end NLP pipeline
-- **YouTube Summarizer Bot**: team project, I built the backend API and Docker deployment
-- **XRM-ME**: CRM/ERP frontend built with Next.js and TypeScript
+- AI/ML applications with practical use cases
+- Backend APIs that expose and support ML systems
+- Computer Vision and multimodal projects
+- AI-powered tools using local and cloud-based models
+- Applications where model development and software engineering meet
 
-## What I'm Working On
+## Focus Areas
 
-- Building **AI/ML applications** with real-world use cases
-- Developing **backend APIs** around machine learning systems
-- Learning **PyTorch, LLMs, RAG, and LangChain**
-- Practicing **SQL / T-SQL**
+`Deep Learning` · `Computer Vision` · `NLP & LLMs` · `Multimodal AI` · `Backend APIs` · `Model Deployment`
 
-## Areas of Interest
+---
 
-```text
-AI / ML
-├── Deep Learning
-├── Computer Vision
-├── NLP & LLMs
-└── Reinforcement Learning
+## GitHub
 
-Software
-├── Backend APIs
-├── Model Deployment
-├── Docker
-└── Full-Stack Applications
-```
-
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahtabkarami&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabkarami&layout=compact&hide_border=true" />
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mahtabkarami&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Mahtab's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabkarami&layout=compact&hide_border=true"
+    alt="Mahtab's top languages"
+  />
 </p>
 
-## Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<div align="center">
+
+### Find me here
+
+<a href="www.linkedin.com/in/mahtab-karami-052658249">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="m.karami1383@gmail.com">Email</a>
+
+</div>
