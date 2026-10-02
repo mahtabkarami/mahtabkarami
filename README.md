@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/mahtabkarami/mahtabkarami/blob/main/README.md" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
+  <img src="https://github.com/mahtabkarami/mahtabkarami/banner.svg" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
 
   <br>
 
@@ -30,42 +30,12 @@ My work sits where **machine learning meets software engineering**.
 
 I'm particularly interested in **Computer Vision, Deep Learning, NLP, and AI-powered applications**, with a strong focus on making models useful beyond a notebook: exposing them through APIs, integrating them into applications, and getting them running in practical environments.
 
-I'm a computer science undergraduate, and I like the part where an ML idea has to survive contact with real software: inputs that are messy, users who don't read docs, and a deployment that has to stay up.
-
-<details>
-<summary><b>How I work</b> (click to expand)</summary>
-
-<br>
-
-- **Explain the model, don't just score it.** I add explainability (Grad-CAM) to vision projects so predictions can be inspected, not just trusted.
-- **Measure before claiming.** I report accuracy, precision, recall, F1, mAP and confusion matrices rather than a single headline number.
-- **Ship it.** If a model can't be called through an API or opened in a browser, I treat the project as unfinished.
-
-</details>
-
 ## Currently
 
 | | |
 |---|---|
 | 🔨 **Building** | A multimodal plant disease app: image + metadata classifier, Grad-CAM heatmaps, and LLM-generated explanation and treatment advice (Streamlit + FastAPI) |
 | 🎓 **Researching** | Deep-learning-based plant disease detection |
-
-## From idea to product
-
-```mermaid
-flowchart LR
-    A[Data & labeling] --> B[Train & evaluate]
-    B --> C[Explain<br/>Grad-CAM]
-    C --> D[Serve<br/>FastAPI]
-    D --> E[Ship<br/>Docker]
-    E --> F[Users]
-    style A fill:#1e1b4b,stroke:#6366f1,color:#e0e7ff
-    style B fill:#1e1b4b,stroke:#6366f1,color:#e0e7ff
-    style C fill:#1e1b4b,stroke:#6366f1,color:#e0e7ff
-    style D fill:#1e1b4b,stroke:#6366f1,color:#e0e7ff
-    style E fill:#1e1b4b,stroke:#6366f1,color:#e0e7ff
-    style F fill:#064e3b,stroke:#34d399,color:#d1fae5
-```
 
 ## Tech Stack
 
