@@ -1,4 +1,4 @@
-# Hi, I'm Mahtab 👋
+# Hi, I'm Mahtab 
 
 **AI/ML · Computer Vision · NLP · Backend Development**
 
