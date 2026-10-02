@@ -1,10 +1,6 @@
-# Hi, I'm Mahtab 
-
-**AI/ML · Computer Vision · NLP · Backend Development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6C8EEF&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Mahtab+%F0%9F%91%8B;ML+%2F+AI+Engineering;Computer+Vision+%C2%B7+NLP;Backend+%C2%B7+FastAPI+%C2%B7+Docker;Full-Stack+%C2%B7+Next.js+%C2%B7+TypeScript" alt="Typing SVG" />
 
 Currently exploring **Deep Learning, Computer Vision, NLP, and LLM-powered applications**, while strengthening my backend and full-stack skills.
-
----
 
 ## Tech Stack
 
@@ -26,8 +22,6 @@ Currently exploring **Deep Learning, Computer Vision, NLP, and LLM-powered appli
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts&perline=3" />
 </p>
 
----
-
 ## Projects
 
 - **Brain Tumor MRI Detection**: CNN classifier with Grad-CAM visual explanations
@@ -37,16 +31,12 @@ Currently exploring **Deep Learning, Computer Vision, NLP, and LLM-powered appli
 - **YouTube Summarizer Bot**: team project, I built the backend API and Docker deployment
 - **XRM-ME**: CRM/ERP frontend built with Next.js and TypeScript
 
----
-
 ## What I'm Working On
 
 - Building **AI/ML applications** with real-world use cases
 - Developing **backend APIs** around machine learning systems
 - Learning **PyTorch, LLMs, RAG, and LangChain**
 - Practicing **SQL / T-SQL**
-
----
 
 ## Areas of Interest
 
@@ -64,16 +54,12 @@ Software
 └── Full-Stack Applications
 ```
 
----
-
 ## GitHub Stats
 
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahtabkarami&show_icons=true&theme=default&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabkarami&layout=compact&hide_border=true" />
 </p>
-
----
 
 ## Connect
 
