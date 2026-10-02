@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
+  <img src="/Users/msg/Downloads/banner.svg" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
 
   <br>
 
