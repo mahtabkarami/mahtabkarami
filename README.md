@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/mahtabkarami/mahtabkarami/main/assets/banner.svg" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
+  <img src="https://github.com/mahtabkarami/mahtabkarami/blob/main/README.md" alt="Mahtab Karami — AI/ML Engineer" width="100%" />
 
   <br>
 
