@@ -1,131 +1,109 @@
+[README.md](https://github.com/user-attachments/files/32960700/README.md)
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6C8EEF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Mahtab+%F0%9F%91%8B;Computer+Science+Student;ML+%2F+AI+Engineering;Computer+Vision+%C2%B7+NLP+%C2%B7+Backend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=6C8EEF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mahtab+%F0%9F%91%8B;ML+%2F+AI+Engineering;Computer+Vision+%C2%B7+NLP+%C2%B7+Recommenders;Models+%E2%86%92+APIs+%E2%86%92+Docker" alt="Typing SVG" />
 
-<p>
-  <b>B.Sc. Computer Science · Azad University, Tehran West</b><br/>
-  I build practical software around machine learning, from model development to APIs and deployment.
-</p>
+<br/>
 
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=for-the-badge&color=6C8EEF&label=PROFILE+VIEWS" />
-</p>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=mahtabkarami&style=for-the-badge&color=6C8EEF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About
+### ⚡ About Me
 
-I am a final-stage Computer Science student focusing on **ML/AI engineering**. My work spans recommendation systems, computer vision, NLP, and backend development, and I care about taking models beyond notebooks into services that can actually be used.
-
-I am currently preparing for professional ML/AI roles and an internship.
-
----
-
-## Currently
-
-| | |
-|---|---|
-| 🔭 **Working on** | Production-style ML backends and full-stack applications |
-| 🌱 **Learning** | PyTorch, LLMs, RAG, LangChain |
-| 🗄️ **Practicing** | SQL / T-SQL |
-| 📖 **Reading** | Research on computer vision and reinforcement learning |
-| 🌾 **Curious about** | IoT sensing for agriculture and RL-based control systems |
+- 🧠 I care about the full path of a model: **train it, explain it, serve it behind an API, containerize it.**
+- 🔍 I prefer models that show their reasoning. My imaging work uses **Grad-CAM** to check *where* a network looks, not only how accurate it is.
+- 🎬 Most of my work sits in **computer vision, NLP, and recommendation systems**, with **FastAPI + Docker** as the delivery layer.
+- 🌾 Side curiosity: **IoT sensing for agriculture** and **reinforcement learning for control problems**.
 
 ---
 
-## Tech Stack
+### 🔄 How I Build
 
-**AI / Machine Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&perline=5" />
-</p>
-
-**Backend & Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,postgres&perline=5" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,html,css&perline=5" />
-</p>
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎬 **[Movie Recommender](https://github.com/GITHUB_USERNAME/REPO_NAME)** | Netflix-style recommendation system with a FastAPI backend | `Python` `FastAPI` `Scikit-learn` |
-| 🧠 **[Brain Tumor MRI Detection](https://github.com/GITHUB_USERNAME/REPO_NAME)** | CNN classifier with Grad-CAM visual explanations of model decisions | `TensorFlow` `Keras` `Grad-CAM` |
-| 🌿 **[Plant Disease Detection](https://github.com/GITHUB_USERNAME/REPO_NAME)** | Transfer learning with MobileNetV2 for leaf disease classification | `TensorFlow` `MobileNetV2` |
-| 💬 **[Sentiment Analysis Pipeline](https://github.com/GITHUB_USERNAME/REPO_NAME)** | End-to-end NLP pipeline for text sentiment classification | `Python` `NLP` `Scikit-learn` |
-| ▶️ **[YouTube Summarizer Bot](https://github.com/GITHUB_USERNAME/REPO_NAME)** | Team project. I handled backend engineering, API design, and Docker deployment | `FastAPI` `Docker` |
-| 🗂️ **[XRM-ME Frontend](https://github.com/GITHUB_USERNAME/REPO_NAME)** | CRM/ERP web app built with a feature-folder architecture | `Next.js` `TypeScript` |
-
----
-
-## Areas of Interest
-
-```text
-AI / ML
-├── Computer Vision & explainability
-├── NLP & LLMs (RAG, LangChain)
-├── Recommendation systems
-└── Reinforcement learning
-
-Engineering
-├── ML-serving APIs
-├── Containerized deployment
-└── Full-stack applications
+```mermaid
+flowchart LR
+    A[Data] --> B[Model]
+    B --> C[Evaluate & Explain]
+    C --> D[FastAPI Service]
+    D --> E[Docker]
 ```
 
 ---
 
-## GitHub Stats
+### 🛠️ Tech Stack
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,fastapi,docker,git&perline=6" />
+<br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts&perline=3" />
+
+**Currently learning**
+
+<img src="https://skillicons.dev/icons?i=pytorch&perline=1" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6C8EEF?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-6C8EEF?style=flat-square" />
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Problem | Approach | Stack |
+|---|---|---|---|
+| 🧠 **[Brain Tumor MRI Detection](https://github.com/mahtabkarami/REPO_NAME)** | Classify tumors from MRI scans and make the decision inspectable | CNN with **Grad-CAM** heatmaps | `TensorFlow` `Keras` |
+| 🌿 **[Plant Disease Detection](https://github.com/mahtabkarami/REPO_NAME)** | Identify crop leaf diseases from images | **Transfer learning** on MobileNetV2 | `TensorFlow` `MobileNetV2` |
+| 🎬 **[Movie Recommender](https://github.com/mahtabkarami/REPO_NAME)** | Suggest relevant titles in a Netflix-style experience | Recommendation pipeline exposed through a REST API | `Python` `FastAPI` |
+| 💬 **[Sentiment Analysis Pipeline](https://github.com/mahtabkarami/REPO_NAME)** | Turn raw text into sentiment predictions | Reproducible end-to-end NLP pipeline | `Python` `Scikit-learn` |
+| ▶️ **[YouTube Summarizer Bot](https://github.com/mahtabkarami/REPO_NAME)** | Summarize long videos automatically | Team project. I owned the **backend, API design, and Docker deployment** | `FastAPI` `Docker` |
+| 🗂️ **[XRM-ME Frontend](https://github.com/mahtabkarami/REPO_NAME)** | A maintainable CRM/ERP interface | Feature-folder architecture, modules built incrementally | `Next.js` `TypeScript` |
+
+---
+
+### 🎯 Currently
+
+| | |
+|---|---|
+| 🔭 **Building** | XRM-ME (Projects module) |
+| 🌱 **Learning** | PyTorch · LLMs · RAG · LangChain |
+| 🗄️ **Practicing** | SQL / T-SQL |
+| 📖 **Reading** | Papers on computer vision and reinforcement learning |
+
+---
+
+### 💬 Ask Me About
+
+`Grad-CAM` · `Transfer learning` · `Recommender systems` · `Serving ML with FastAPI` · `Dockerizing ML services`
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahtabkarami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabkarami&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## Connect
-
-I am always glad to discuss machine learning, computer vision, and applied AI engineering.
-
 <div align="center">
+
+<sub>Open to discussing machine learning, computer vision, and applied AI engineering.</sub>
+
+<br/><br/>
 
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<sub>⭐ If something here is useful to you, a star on the repository is appreciated.</sub>
-
 </div>
-
-<!--
-**mahtabkarami/mahtabkarami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
