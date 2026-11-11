@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34689575/README.md)
-
 <p align="center">
   <img src="./assets/banner.jpg" alt="Mahtab Karami, AI/ML Developer" width="720" />
 </p>
