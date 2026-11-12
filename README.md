@@ -35,7 +35,7 @@ My interests include Machine Learning, Deep Learning, Computer Vision, NLP, LLM 
 | Project | Problem | Approach & Contribution | Outcome |
 |:--|:--|:--|:--|
 | **Plant Disease Detection & RAG Assistant** | Plant disease identification. | Multimodal MobileNetV2 + RAG development. | **97.65% accuracy**. |
-| **Movie Recommender Systems** | Personalized movie recommendations. | Collaborative filtering, content-based filtering, and clustering. | SVD RMSE: **0.9346**. |
+| **Movie Recommender Systems** | Personalized movie recommendations. | Implemented collaborative filtering, content-based filtering, and clustering. | Evaluated recommendation models using prediction and ranking metrics. |
 | **YouTube Summarization Bot** | Summarizing lengthy videos. | Automated transcription and PDF generation with FastAPI and Whisper. | Persian PDF summaries via Telegram. |
 | **Cine-AI** | Movie discovery and recommendations. | Backend API development and TMDB integration. | Supports ~**9,742 movies**. |
 | **CRM Web Application · Hamava Voltage** | Streamlining CRM workflows. | Full-stack development with React, Next.js, and FastAPI. | Usable application, ongoing development. |
