@@ -51,9 +51,4 @@ My interests include Machine Learning, Deep Learning, Computer Vision, NLP, LLM 
   <img src="https://ghchart.rshah.org/216e39/mahtabkarami" alt="Contribution activity of mahtabkarami" width="100%" />
 </p>
 
-## GitHub Stats
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahtabkarami&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabkarami&layout=compact&hide_border=true" alt="Top languages" />
-</p>
