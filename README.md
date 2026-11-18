@@ -5,7 +5,7 @@
 <h1 align="center">Mahtab Karami</h1>
 
 <p align="center">
-  <b>AI/ML Developer | Full-Stack Developer</b>
+  <b>AI/ML Developer | Full-Stack Development</b>
 </p>
 
 <p align="center">
